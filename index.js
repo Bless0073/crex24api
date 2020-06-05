@@ -1,3 +1,3 @@
 const ccxt = require('ccxt');
 
-module.export = ccxt.crex24;
+module.exports = ccxt.crex24;
